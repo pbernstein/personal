@@ -25,8 +25,8 @@ import send_generic_email_attachment as send_email
 import subprocess
 
 url = "http://www.google.com"
-email = "pbernstein@gmail.com"
-#email = "payton.bissell@gmail.com"
+
+
 instant = str(datetime.datetime.now()).replace(" ","-")
 unique = "Instance Name"
 
